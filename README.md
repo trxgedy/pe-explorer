@@ -55,7 +55,7 @@ The parser reads the target file's raw bytes into memory (rather than mapping it
 3. Resolves data directory entries (Import Table, Export Table) by converting their RVAs to file offsets using that section map.
 4. Walks the import descriptor / thunk arrays and the export directory's parallel arrays to build the final lists shown in the UI.
 
-See [`notes.md`](pe-explorer/notes.md) for a more detailed breakdown of the PE format and the RVA-to-offset conversion used throughout the parser.
+See [`notes.md`](pe-explorer/pe-explorer/notes.md) for a more detailed breakdown of the PE format and the RVA-to-offset conversion used throughout the parser.
 
 ## Acknowledgements
 
