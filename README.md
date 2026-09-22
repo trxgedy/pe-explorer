@@ -32,18 +32,6 @@ https://github.com/user-attachments/assets/a8692ef0-c5fe-4aa1-a097-4bbb6e3567c7
 - Install freetype:x64-windows-static using [vcpkg](https://vcpkg.io/)
 - A C++23-capable toolset (the project uses `std::print` and other modern standard library features)
 
-### Steps
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/pe-explorer.git
-   ```
-2. Open `pe-explorer.sln` in Visual Studio.
-3. Select your desired configuration (`Debug` / `Release`) and platform (`x64`).
-4. Build and run (`Ctrl+F5`).
-
-> ImGui and its DirectX 11 / Win32 backends are bundled under `pe-explorer/ext/ui` — no additional package installation is required.
-
 ## Project Structure
 
 ```
