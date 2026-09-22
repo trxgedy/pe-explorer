@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/a8692ef0-c5fe-4aa1-a097-4bbb6e3567c7
 
 - Windows 10/11
 - Visual Studio 2022 (or newer) with the **Desktop development with C++** workload
-- Install freetype:x64-windows-static using vcpkg[https://vcpkg.io/]
+- Install freetype:x64-windows-static using [vcpkg](https://vcpkg.io/)
 - A C++23-capable toolset (the project uses `std::print` and other modern standard library features)
 
 ### Steps
