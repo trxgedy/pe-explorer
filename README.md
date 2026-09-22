@@ -21,8 +21,7 @@ A lightweight Windows PE (Portable Executable) file inspector, built with **ImGu
 Every field is shown with its **file offset**, so you can cross-reference it directly against a hex editor.
 
 ## Preview
-
-*(add a screenshot or GIF of the app here before publishing)*
+https://github.com/user-attachments/assets/a8692ef0-c5fe-4aa1-a097-4bbb6e3567c7
 
 ## Building
 
