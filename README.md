@@ -61,3 +61,4 @@ See [`notes.md`](pe-explorer/pe-explorer/notes.md) for a more detailed breakdown
 
 - [Dear ImGui](https://github.com/ocornut/imgui) for the UI framework
 - Microsoft's [PE Format documentation](https://learn.microsoft.com/en-us/windows/win32/debug/pe-format)
+- [0xRick PE Format Walkthrough](https://0xrick.github.io/win-internals/pe1/)
