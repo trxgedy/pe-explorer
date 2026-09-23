@@ -23,6 +23,11 @@ Every field is shown with its **file offset**, so you can cross-reference it dir
 ## Preview
 https://github.com/user-attachments/assets/a8692ef0-c5fe-4aa1-a097-4bbb6e3567c7
 
+## TO DO
+- Debug directory
+- Parse resources
+- 32 bit support
+
 ## Building
 
 ### Prerequisites
